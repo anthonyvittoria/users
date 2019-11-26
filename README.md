@@ -1,2 +1,2 @@
 # users
-Small Django app to handle user registration for incorporation into larger projects.
+Small Django app to handle user registration. For incorporation into larger projects.
